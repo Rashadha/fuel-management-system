@@ -1,0 +1,14 @@
+
+’
+java:S1319"wThe type of "fuelRecordEachDispenser" should be an interface such as "List" rather than the implementation "ArrayList".(‹Ÿ±Ëÿÿÿÿÿ
+‹
+java:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¢°Êèÿÿÿÿÿ
+’
+java:S1319P"wThe type of "fuelRecordEachDispenser" should be an interface such as "List" rather than the implementation "ArrayList".(´µ§øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ª™Ÿûÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(»¥»øûÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(—¯ æ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(òë’óûÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(…‚ôœ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.( ½ –
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(®ıÑÂÿÿÿÿÿ
